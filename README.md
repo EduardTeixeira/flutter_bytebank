@@ -5,7 +5,7 @@
 A new Flutter project.
 
 Tools version:
-  Flutter 2.3.0-24.1.pre
+  Flutter 2.3.0-24.1.pre,
   Dart 2.14.0
 
 ## Getting Started
