@@ -4,6 +4,10 @@
 
 A new Flutter project.
 
+Tools version:
+  Flutter 2.3.0-24.1.pre
+  Dart 2.14.0
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
